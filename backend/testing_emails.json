@@ -1,0 +1,22 @@
+{
+    "contacts": [
+      {
+        "recipient_name": "Alex Thompson",
+        "recipient_company": "TechVision Solutions",
+        "recipient_job_title": "Senior Product Manager",
+        "email": "habeebsalami09@gmail.com"
+      },
+      {
+        "recipient_name": "Sarah Chen",
+        "recipient_company": "Innovate Digital Labs",
+        "recipient_job_title": "Director of Engineering",
+        "email": "habeebomotolani2007@gmail.com"
+      },
+      {
+        "recipient_name": "Marcus Rodriguez",
+        "recipient_company": "CloudScale Systems",
+        "recipient_job_title": "VP of Operations",
+        "email": "habeebomotolani2004@gmail.com"
+      }
+    ]
+  }
